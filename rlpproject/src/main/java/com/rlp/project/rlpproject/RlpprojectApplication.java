@@ -10,4 +10,8 @@ public class RlpprojectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RlpprojectApplication.class, args);
 	}
+	/*
+	 * public static void main(String[] args) {
+	 * SpringApplication.run(RlpprojectApplication.class, args); }
+	 */
 } 
