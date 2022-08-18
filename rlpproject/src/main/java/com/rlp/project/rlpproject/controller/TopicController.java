@@ -15,7 +15,7 @@ import com.rlp.project.rlpproject.service.TopicService;
 @RestController
 @RequestMapping("api")
 public class TopicController {
-
+//jagfuysagfuyig
 	@Autowired
 	private TopicService topicService;
 	
